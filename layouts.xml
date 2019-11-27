@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Benjamin Ferkol
+    C12731268
+    HW3
+    This file keeps the view one pane when the phone is put into a vertical view, unlike the landscape option
+    -->
+<resources>
+    <bool name="twoPanes">false</bool>
+</resources>
+
